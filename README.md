@@ -15,3 +15,4 @@
 
 **Our LoL Script was developed in partnership with high-elo players and an experienced developer team. We even have Challenger-ranked players using our software. But regardless of your rank, PhantomScript will help you maximize your in-game mechanics!**
 
+
